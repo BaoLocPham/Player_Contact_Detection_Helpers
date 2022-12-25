@@ -3,6 +3,7 @@ import cv2
 import subprocess
 from IPython.display import Video, display
 import pandas as pd
+import numpy as np
 
 def video_with_helmets(
     video_path: str, baseline_boxes: pd.DataFrame, verbose=True
