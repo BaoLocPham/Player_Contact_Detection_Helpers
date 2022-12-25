@@ -8,7 +8,7 @@ Sample videos:
 
 This video displays these helmet boxes on an example play. They are provided starting a few frames prior to the play starting and the video displays the associated player label (home/visiting team in combination with jersey number) next to the helmet box.
 
-<video src='samples\labeled_58168_003392_Sideline.mp4'/>
+<video src="samples\contact_58168_003392_Sideline.mp4"></video>
 
 <!-- <video width="320" height="240" controls>
   <source src="samples\labeled_58168_003392_Sideline.mp4" type="video/mp4">
@@ -22,4 +22,6 @@ Note in this video:
 - **Red** helmet box indicates the player is in contact with the ground (and possibly another player).
 - **Blue** lines show the link between players in contact with each other.
 
-<video src="samples\labeled_58168_003392_Sideline.mp4" />
+<!-- changed -->
+
+<video src="samples\labeled_58168_003392_Sideline.mp4"></video>
